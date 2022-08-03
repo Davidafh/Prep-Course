@@ -6,7 +6,7 @@
       <a href="https://airtable.com/shrSzEYT4idEFGB8d?prefill_clase=01-Git">
         <img src="https://static.thenounproject.com/png/204643-200.png" width="100"/>
         <br>
-        Hacé click acá para dejar tu feedback sobre esta clase.
+        Todo Cool, pero para crear un nuevo archivo usan 'touch', que es un comando de linux, en mi caso que use powershell use 'ni', sería bueno poner una aclaración.
       </a>
     </td>
   </tr>
