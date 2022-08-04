@@ -1,0 +1,29 @@
+* Variables
+Una variable es un nombre que tu le das a algo y que puede significar casi cualquier cosas que quieras, puedes significar un número, 
+una operación, una frase, una palabra.
+
+* Strings
+Tus variables aunque pueden significar muchas cosas, estan ordenadas por categprías, como las peliculas que son animadas,
+de terror, de risa, hay una categoría de variable llamada "string" y solo es texto, puedes poner cualquier cosa en ese texto.
+
+* Funciones (argumentos, `return`)
+Las funciones es como si inventaras un juego con tus variables, son un poco mas dificiles de entender pero no imposibles, 
+primero que nada, antes de empezar a jugar debes ponerle un nombre a tu juego o en este caso a tu función, y como 
+cualquier juego estos tienen elementos de juego, en el futbón por ejemplo usas pelotas, en este caso 
+los elementos del juefo se llaman argumentos.
+
+Si jugamos a ponerle nombre a las personas, podriamos llamar al juego "nombra a las personas" y como elementos del juego 
+necesitamos un nombre y un apellido, estos son nuestros argumentos.
+
+Si ves a una persona en la calle y estas jugando, puedes inventar que tiene de nombre "David" y de Apellido "Falcón",
+haz jugado con tus argumentos y le pusiste de nombre "David Falcón", ese resultado se llama en una función "return"
+
+* Declaraciones `if`
+Un if es ocmo cuando tu mamá te advierte que pasara algo si no le haces caso, por ejemplo:
+Si te comes tus verduras creceras alto y fuerte, si no seras un enano el resto de tu vida.
+
+* Valores booleanos (`true`, `false`)
+¿Haz jugado "adivina quien?, ese juego donde debes tratar de adivinar como es elpersonade de la otra persona, 
+asi son los valores booleanos, puro verdadero o falso.
+¿tu personaje tiene barba? verdadero
+¿tu personaje es mujer? falso 
